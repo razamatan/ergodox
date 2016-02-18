@@ -1,2 +1,6 @@
-# configurator: http://configurator.input.club/?layout=MDErgo1-Default
-dfu-util -D [left/right]_kiibohd.dfu.bin
+my setup for my beloved infinity ergodox.
+
+1.  generage layouts via the ic configurator: http://configurator.input.club/?layout=MDErgo1-Default
+2.  unzip
+3.  make left # or make right
+4.  profit
