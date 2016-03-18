@@ -137,8 +137,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "#:None",
-                    "label": "NONE"
+                    "key": "PREV LAYER",
+                    "label": "PREV-\u0192"
                 }
             }
         },
@@ -329,10 +329,7 @@
             "w": 4,
             "h": 4,
             "layers": {
-                "0": {
-                    "key": "DELETE",
-                    "label": "DEL"
-                }
+
             }
         },
         {
@@ -463,8 +460,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "PREV LAYER",
-                    "label": "PREV-\u0192"
+                    "key": "DELETE",
+                    "label": "DEL"
                 }
             }
         },
@@ -527,10 +524,6 @@
             "w": 4,
             "h": 4,
             "layers": {
-                "0": {
-                    "key": "RIGHT",
-                    "label": "\u2192"
-                },
                 "1": {
                     "key": "PAGEDOWN",
                     "label": "PGDN"
@@ -544,10 +537,6 @@
             "w": 4,
             "h": 4,
             "layers": {
-                "0": {
-                    "key": "UP",
-                    "label": "\u2191"
-                },
                 "2": {
                     "key": "SYS:POWERDOWN",
                     "label": "POWER"
@@ -561,10 +550,6 @@
             "w": 4,
             "h": 4,
             "layers": {
-                "0": {
-                    "key": "DOWN",
-                    "label": "\u2193"
-                },
                 "2": {
                     "key": "SYS:SLEEP",
                     "label": "SLEEP"
@@ -579,8 +564,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LEFT",
-                    "label": "\u2190"
+                    "key": "CAPSLOCK",
+                    "label": "CAPSLK"
                 },
                 "2": {
                     "key": "SYS:WAKEUP",
@@ -731,8 +716,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "#:None",
-                    "label": "NONE"
+                    "key": "NEXT LAYER",
+                    "label": "NEXT-\u0192"
                 }
             }
         },
@@ -971,10 +956,7 @@
             "w": 4,
             "h": 4,
             "layers": {
-                "0": {
-                    "key": "INSERT",
-                    "label": "INS"
-                }
+
             }
         },
         {
@@ -1121,8 +1103,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "NEXT LAYER",
-                    "label": "NEXT-\u0192"
+                    "key": "INSERT",
+                    "label": "INS"
                 }
             }
         },
@@ -1227,10 +1209,6 @@
             "w": 4,
             "h": 4,
             "layers": {
-                "0": {
-                    "key": "CAPSLOCK",
-                    "label": "CAPSLK"
-                },
                 "2": {
                     "key": "P=",
                     "label": "P="
