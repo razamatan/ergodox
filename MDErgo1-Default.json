@@ -329,7 +329,10 @@
             "w": 4,
             "h": 4,
             "layers": {
-
+                "0": {
+                    "key": "DELETE",
+                    "label": "DEL"
+                }
             }
         },
         {
@@ -460,8 +463,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "DELETE",
-                    "label": "DEL"
+                    "key": "APP",
+                    "label": "APP"
                 }
             }
         },
@@ -499,8 +502,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "BACKSPACE",
-                    "label": "BKSP"
+                    "key": "ESCAPE",
+                    "label": "ESC"
                 }
             }
         },
@@ -512,8 +515,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "ESCAPE",
-                    "label": "ESC"
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
                 }
             }
         },
@@ -956,7 +959,10 @@
             "w": 4,
             "h": 4,
             "layers": {
-
+                "0": {
+                    "key": "INSERT",
+                    "label": "INS"
+                }
             }
         },
         {
@@ -1103,8 +1109,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "INSERT",
-                    "label": "INS"
+                    "key": "APP",
+                    "label": "APP"
                 }
             }
         },
@@ -1142,8 +1148,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "SPACE",
-                    "label": "[&nbsp;]"
+                    "key": "ENTER",
+                    "label": "\u21b5"
                 }
             }
         },
@@ -1155,8 +1161,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "ENTER",
-                    "label": "\u21b5"
+                    "key": "SPACE",
+                    "label": "[&nbsp;]"
                 },
                 "1": {
                     "key": "CONS:BRIGHTNESSDECREMENT",
