@@ -24,6 +24,10 @@
                 "1": {
                     "key": "F6",
                     "label": "F6"
+                },
+                "2": {
+                    "key": "#:toggleKbdProtocol()",
+                    "label": "6\/N-KRO"
                 }
             }
         },
@@ -502,8 +506,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "ESCAPE",
-                    "label": "ESC"
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
                 }
             }
         },
@@ -515,8 +519,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKSPACE",
-                    "label": "BKSP"
+                    "key": "ESCAPE",
+                    "label": "ESC"
                 }
             }
         },
@@ -1148,8 +1152,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "ENTER",
-                    "label": "\u21b5"
+                    "key": "SPACE",
+                    "label": "[&nbsp;]"
                 }
             }
         },
@@ -1161,8 +1165,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "SPACE",
-                    "label": "[&nbsp;]"
+                    "key": "ENTER",
+                    "label": "\u21b5"
                 },
                 "1": {
                     "key": "CONS:BRIGHTNESSDECREMENT",
