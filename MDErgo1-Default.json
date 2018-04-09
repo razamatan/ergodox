@@ -6,9 +6,13 @@
         "Version": "0.1",
         "Author": "razamatan",
         "KLL": "0.3c",
-        "Date": "2015-09-12",
-        "Generator": "KIICONF 0.2"
+        "Date": "2018-04-09",
+        "Generator": "KIICONF 0.2",
+        "Variant": ""
     },
+    "defines": [
+
+    ],
     "matrix": [
         {
             "code": "0x02",
@@ -1242,5 +1246,14 @@
                 }
             }
         }
-    ]
+    ],
+    "leds": [
+
+    ],
+    "custom": {
+
+    },
+    "animations": {
+
+    }
 }
