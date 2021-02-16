@@ -1,6 +1,9 @@
 my setup for my beloved infinity ergodox.
 
-1.  generage layouts via the ic configurator: http://configurator.input.club/?layout=MDErgo1-Default
-2.  unzip
-3.  make left # or make right
+1.  https://kiibohd.github.io/wiki/#/Quickstart
+2.  import one of the json files into the configurator (cat my.json | pbcopy)
+3.  flash using the UI
 4.  profit
+
+to update with a new config, grab it from:
+(OSX) find ~/Library/Application\ Support/kiibohd-configurator -type f -name \*.json
